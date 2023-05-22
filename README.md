@@ -30,6 +30,6 @@
 
 <p><![Anurag's github stats](https://github-readme-stats.aditya-mohite.vercel.app/api?username=aditya-mohite&show_icons=true&theme=chartreuse-dark)></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-mohite&show_icons=true&locale=en" alt="aditya-mohite" /></p>
+<p>[![Top Langs](https://github-readme-stats.aditya-mohite.vercel.app/api/top-langs/?username=aditya-mohite&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-mohite&" alt="aditya-mohite" /></p>
